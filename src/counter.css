@@ -1,0 +1,27 @@
+*{
+    background: linear-gradient(to right, rgb(89, 193, 115), rgb(161, 128, 224), rgb(93, 38, 193));
+   
+}
+.container h1{
+
+      color:burlywood;
+}
+.container h2{
+    color:firebrick;
+    font-weight: bold;
+}
+button{
+    width: 180px;
+    height: 70;
+    background:chartreuse;
+    color:white;
+    cursor: pointer;
+    font-size: 1.5rem;
+    border: none;
+}
+#btn{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: center;
+}
